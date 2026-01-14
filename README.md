@@ -9,6 +9,6 @@ Skrip ini adalah pemanggil (launcher) otomatis untuk mempermudah proses aktivasi
 
 ### Cara Menjalankan:
 Salin kode berikut ke PowerShell:
-`irm https://raw.githubusercontent.com/USER/REPO/main/FILE.ps1 | iex`
+powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/aritrimukti/aktivasi-otomatis/refs/heads/main/aktivasi-otomatis.ps1 | iex"
 
 ```
