@@ -1,4 +1,4 @@
-# Windows Auto Activation Script
+<img width="648" height="614" alt="image" src="https://github.com/user-attachments/assets/cdd9ef8b-ac09-4c9f-82d4-743f8a63c109" /># Windows Auto Activation Script
 
 Skrip ini adalah pemanggil (launcher) otomatis untuk mempermudah proses aktivasi menggunakan MAS.
 
