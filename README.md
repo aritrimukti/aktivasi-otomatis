@@ -1,3 +1,6 @@
+<img width="648" height="614" alt="image" src="https://github.com/user-attachments/assets/6d12594e-ae67-452c-a273-52d2d70b156f" />
+
+
 Skrip ini adalah pemanggil (launcher) otomatis untuk mempermudah proses aktivasi menggunakan MAS.
 
 ## Fitur:
@@ -8,6 +11,3 @@ Skrip ini adalah pemanggil (launcher) otomatis untuk mempermudah proses aktivasi
 ### Cara Menjalankan:
 Salin kode berikut ke PowerShell:
 powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/aritrimukti/aktivasi-otomatis/refs/heads/main/aktivasi-otomatis.ps1 | iex"
-
-```
-<img width="648" height="614" alt="image" src="https://github.com/user-attachments/assets/7bbe9401-87bd-4c78-87c9-1383915a1390" />
